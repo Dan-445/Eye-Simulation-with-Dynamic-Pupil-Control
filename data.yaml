@@ -1,0 +1,14 @@
+names:
+- eye
+- iris
+- pupil
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: human-eye-bbhud
+  url: https://universe.roboflow.com/tahr-dataset/human-eye-bbhud/dataset/3
+  version: 3
+  workspace: tahr-dataset
+test: ../test/images
+train: ../train/images
+val: ../valid/images
